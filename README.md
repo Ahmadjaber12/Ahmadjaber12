@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ahmad jaber
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in Backend Development.
+- 🌱 I’m currently learning ASP.Net
+- I've an experience in dealing with API , Nodejs,ExpressJs & MongoDB.
 - 💞️ I’m looking to collaborate in a company to start my career
 - 📫 How to reach me
 - by mobile : 0592838441
